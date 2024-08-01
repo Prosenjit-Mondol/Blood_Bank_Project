@@ -1,1 +1,1 @@
-# Blood_Bank_Project
+This project is made by me. I have to spend a lot of time on my project. There was main difficult part is to connect databases connection. This part is vary sensetive so we need to very carefull when we connect databases connection . Thanks all.
