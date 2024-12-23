@@ -32,5 +32,5 @@ The Blood Bank Management System is a Java-based application designed to manage 
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/blood-bank-management-system.git
-   cd blood-bank-management-system
+   https://github.com/Prosenjit-Mondol/Blood_Bank_Project.git
+   cd Blood_Bank_Project
